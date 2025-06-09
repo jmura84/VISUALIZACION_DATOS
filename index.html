@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>European Climate and Emissions Visualizations</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+    }
+
+    h1, h2 {
+      margin-top: 40px;
+    }
+
+    img {
+      width: 90%;
+      max-width: 900px;
+      height: auto;
+      margin-top: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    iframe {
+      width: 90%;
+      height: 80vh;
+      border: none;
+      margin: 20px 0;
+    }
+
+    .btn-container {
+      margin: 20px;
+    }
+
+    .btn-container button {
+      padding: 10px 20px;
+      margin: 5px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    .side-by-side {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 40px;
+      margin-bottom: 60px;
+    }
+
+    .half-map {
+      width: 90%;
+      height: 600px;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>European Climate and Emissions Visualizations</h1>
+
+  <!-- Static Images -->
+  <img src="graphs/Average_temps_Europe_over_time.png" alt="Average Temperatures Over Time">
+  <img src="graphs/Average_temps_Europe_country_over_time.png" alt="Average Temperatures by Country Over Time">
+
+  <!-- Interactive Maps 1750–1900 -->
+  <h2>1750–1900</h2>
+  <div class="btn-container">
+    <button onclick="loadMap('map1750', 'graphs/interactive_temperature_map_1750-1900.html')">Avg. temps</button>
+    <button onclick="loadMap('map1750', 'graphs/interactive_co2_map_1750-1900.html')">CO₂ per capita</button>
+  </div>
+  <iframe id="map1750" src="graphs/interactive_temperature_map_1750-1900.html"></iframe>
+
+  <!-- Interactive Maps 2003–2022 -->
+  <h2>2003–2022</h2>
+  <div class="btn-container">
+    <button onclick="loadMap('map2003', 'graphs/interactive_temperature_map_last_20_years.html')">Avg. temps</button>
+    <button onclick="loadMap('map2003', 'graphs/interactive_co2_map_last_20_years.html')">CO₂ per capita</button>
+  </div>
+  <iframe id="map2003" src="graphs/interactive_temperature_map_last_20_years.html"></iframe>
+
+  <!-- Static Image: CO2 over time -->
+  <img src="graphs/CO2_per_capita_Europe_over_time.png" alt="CO2 per Capita Over Time in Europe">
+
+  <!-- Comparative Maps -->
+  <h2>Normalized Indicators (Spain vs Europe)</h2>
+  <div class="side-by-side">
+    <iframe class="half-map" src="graphs/Spain_100_years_normalized.html"></iframe>
+    <iframe class="half-map" src="graphs/Europe_100_years_normalized.html"></iframe>
+  </div>
+
+  <script>
+    function loadMap(id, file) {
+      document.getElementById(id).src = file;
+    }
+  </script>
+
+</body>
+</html>
