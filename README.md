@@ -43,13 +43,21 @@ No se requiere registro.
 ### Bibliotecas utilizadas:
 
 pandas
+
 matplotlib
+
 scikit-learn
+
 seaborn
+
 geopandas
+
 folium
+
 branca
+
 plotly
+
 statsmodels
 
 ---
