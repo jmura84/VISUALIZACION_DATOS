@@ -1,11 +1,12 @@
 # VISUALIZACION_DATOS
-# Visualización de Datos sobre CO₂ y Temperatura en Europa (PRAC 2)
+
+# Datos sobre CO₂, temperaturas y vehículos eléctricos en Europa (PRAC 2)
 
 Este proyecto forma parte de la asignatura *Visualización de Datos* del Máster de Ciencia de Datos de la UOC.
 
 Aquí se presentan visualizaciones interactivas y estáticas sobre la evolución de indicadores medioambientales en Europa, como:
 
-- Temperatura media
+- Temperaturas medias
 - Emisiones de CO₂ per cápita
 - Gases de efecto invernadero
 - Vehículos eléctricos
@@ -41,20 +42,15 @@ No se requiere registro.
 
 ### Bibliotecas utilizadas:
 
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-from sklearn.preprocessing import MinMaxScaler
-import seaborn as sns
-import geopandas as gpd
-import folium
-from folium.features import GeoJsonTooltip, DivIcon
-from branca.colormap import LinearColormap
-import plotly.express as px
-import plotly.io as pio
-import statsmodels.api as sm
-from statsmodels.stats.outliers_influence import variance_inflation_factor
-```
+pandas
+matplotlib
+scikit-learn
+seaborn
+geopandas
+folium
+branca
+plotly
+statsmodels
 
 ---
 
