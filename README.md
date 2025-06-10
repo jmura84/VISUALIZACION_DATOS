@@ -62,7 +62,9 @@ statsmodels
 
 ---
 
-Bar race chart creado con Flourish
+Bar Race Chart creado con Flourish
+
+---
 
 
 ## 📜 Licencia
