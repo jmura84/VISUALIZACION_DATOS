@@ -69,7 +69,7 @@ statsmodels
 
 ---
 
-Bar Race Chart creado con Flourish
+Bar Race Chart creado con Flourish: https://public.flourish.studio/visualisation/23680193/embed
 
 ---
 
