@@ -4,6 +4,13 @@
 
 Este proyecto forma parte de la asignatura *Visualización de Datos* del Máster de Ciencia de Datos de la UOC.
 
+Conjuntos de datos originales (fuentes de Kaggle):
+
+- Global CO₂ and Greenhouse Gas Emissions: https://www.kaggle.com/datasets/mexwell/global-co2-and-greenhouse-gas-emissions
+- Earth Temperature Data By Country (1753-2024): https://www.kaggle.com/datasets/anastasiaalyoshkina/earth-landsurface-temperature-data-1750-2024
+- Global Electric Vehicle Sales Data (2010-2024): https://www.kaggle.com/datasets/muhammadehsan000/global-electric-vehicle-sales-data-2010-2024/data
+
+
 Aquí se presentan visualizaciones interactivas y estáticas sobre la evolución de indicadores medioambientales en Europa, como:
 
 - Temperaturas medias
