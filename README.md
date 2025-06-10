@@ -71,7 +71,8 @@ statsmodels
 
 ---
 
-Bar Race Chart creado con Flourish: https://public.flourish.studio/visualisation/23680193/embed
+Bar Race Chart del CO₂ per cápita por país creado con Flourish:
+https://public.flourish.studio/visualisation/23680193/embed
 
 ---
 
