@@ -69,6 +69,11 @@ statsmodels
 
 ---
 
+Bar Race Chart creado con Flourish
+
+---
+
+
 ## 📜 Licencia
 
 Este proyecto está publicado bajo la [Licencia MIT](LICENSE).
