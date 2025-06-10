@@ -4,6 +4,8 @@
 
 Este proyecto forma parte de la asignatura *Visualización de Datos* del Máster de Ciencia de Datos de la UOC.
 
+La información del proyecto se ha resumido en este PDF: https://github.com/jmura84/VISUALIZACION_DATOS/blob/main/jmura84_visualizacion_datos_PRAC2.pdf
+
 Conjuntos de datos originales (fuentes de Kaggle):
 
 - Global CO₂ and Greenhouse Gas Emissions: https://www.kaggle.com/datasets/mexwell/global-co2-and-greenhouse-gas-emissions
