@@ -44,9 +44,9 @@ Puedes abrir el archivo `index.html` directamente o acceder al proyecto en líne
 
 👉 **[GitHub Pages](https://jmura84.github.io/VISUALIZACION_DATOS/)**  
 
-No se requiere registro.
+👉 **[Bar Race Chart del CO₂ per cápita por país creado con Flourish](https://public.flourish.studio/visualisation/23680193/embed)**
 
-[Bar Race Chart del CO₂ per cápita por país creado con Flourish](https://public.flourish.studio/visualisation/23680193/embed)
+No se requiere registro.
 
 ---
 
