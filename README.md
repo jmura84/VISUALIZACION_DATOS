@@ -42,6 +42,9 @@ Puedes abrir el archivo `index.html` directamente o acceder al proyecto en líne
 
 No se requiere registro.
 
+Bar Race Chart del CO₂ per cápita por país creado con Flourish:
+https://public.flourish.studio/visualisation/23680193/embed
+
 ---
 
 ## 🛠️ Requisitos para ejecutar el proyecto
@@ -71,10 +74,6 @@ statsmodels
 
 ---
 
-Bar Race Chart del CO₂ per cápita por país creado con Flourish:
-https://public.flourish.studio/visualisation/23680193/embed
-
----
 
 
 ## 📜 Licencia
