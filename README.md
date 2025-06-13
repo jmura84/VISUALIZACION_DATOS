@@ -2,7 +2,7 @@
 
 # Datos sobre CO₂, temperaturas y vehículos eléctricos en Europa (PRAC 2)
 
-Este proyecto forma parte de la asignatura *Visualización de Datos* del Máster de Ciencia de Datos de la UOC.
+Este es el proyecto final de la asignatura *Visualización de Datos* del Máster de Ciencia de Datos de la UOC.
 
 La información del proyecto se ha resumido en estos dos PDF:
 
