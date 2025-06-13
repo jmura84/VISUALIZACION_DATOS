@@ -5,8 +5,8 @@
 Este proyecto forma parte de la asignatura *Visualización de Datos* del Máster de Ciencia de Datos de la UOC.
 
 La información del proyecto se ha resumido en estos dos PDF: 
-https://github.com/jmura84/VISUALIZACION_DATOS/blob/main/jmura84_visualizacion_datos_PRAC1.pdf
-https://github.com/jmura84/VISUALIZACION_DATOS/blob/main/jmura84_visualizacion_datos_PRAC2.pdf
+[Práctica 1](https://github.com/jmura84/VISUALIZACION_DATOS/blob/main/jmura84_visualizacion_datos_PRAC1.pdf)
+[Práctica 2](https://github.com/jmura84/VISUALIZACION_DATOS/blob/main/jmura84_visualizacion_datos_PRAC2.pdf)
 
 Conjuntos de datos originales (fuentes de Kaggle):
 
