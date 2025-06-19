@@ -32,7 +32,7 @@ Aquí se presentan visualizaciones interactivas y estáticas sobre la evolución
 ```
 ├── data/               # Datasets utilizados (CSV y shapefile)
 ├── graphs/             # Imágenes PNG y visualizaciones interactivas en HTML
-├── urls/             # URLs de las fuentes de los datos utilizados
+├── urls/               # URLs de las fuentes de los datos utilizados
 ├── index.html          # Página principal que organiza todas las visualizaciones
 ├── visualizacion_datos_data_prep.ipynb  # Notebook de generación
 ├── jmura84_visualizacion_datos_PRAC1.pdf # PDF de la parte 1 de la práctica
