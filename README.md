@@ -36,7 +36,7 @@ Aquí se presentan visualizaciones interactivas y estáticas sobre la evolución
 ├── visualizacion_datos_data_prep.ipynb  # Notebook de generación
 ├── jmura84_visualizacion_datos_PRAC1.pdf # PDF de la parte 1 de la práctica
 ├── jmura84_visualizacion_datos_PRAC1.pdf # PDF de la parte 2 de la práctica
-├── jmura84_PRAC2.mp4 # Vídeo que describe las visualizaciones de la práctica
+├── jmura84_PRAC2.mp4   # Vídeo que describe las visualizaciones de la práctica
 ```
 
 ---
