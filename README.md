@@ -34,7 +34,7 @@ Aquí se presentan visualizaciones interactivas y estáticas sobre la evolución
 ├── graphs/             # Imágenes PNG y visualizaciones interactivas en HTML
 ├── urls/               # URLs de las fuentes de los datos utilizados
 ├── index.html          # Página principal que organiza todas las visualizaciones
-├── visualizacion_datos_data_prep.ipynb  # Notebook de generación
+├── visualizacion_datos_data_prep.ipynb   # Notebook de generación
 ├── jmura84_visualizacion_datos_PRAC1.pdf # PDF de la parte 1 de la práctica
 ├── jmura84_visualizacion_datos_PRAC1.pdf # PDF de la parte 2 de la práctica
 ├── jmura84_PRAC2.mp4   # Vídeo que describe las visualizaciones de la práctica
